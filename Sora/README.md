@@ -81,11 +81,11 @@ Sora/
 
 ## Author
 
-**Mark Almeria** — [@jmarkTheDeveloper](https://github.com/jmarkTheDeveloper)  
+**Jae Mark Almeria** — [@jmarkTheDeveloper](https://github.com/jmarkTheDeveloper)  
 BS Computer Science — Digital Forensics | National University Philippines
 
 ---
 
 ## License
 
-This project is for educational purposes as part of coursework at National University Philippines.
+This project is not affiliated to any existing company. This is merely just a personal project created by Jae Mark Almeria
